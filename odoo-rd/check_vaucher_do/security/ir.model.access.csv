@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_check_vaucher_do_check_vaucher_do,check_vaucher_do.check_vaucher_do,model_check_vaucher_do_check_vaucher_do,,1,0,0,0
